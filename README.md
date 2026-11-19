@@ -17,6 +17,6 @@ Sqlite3 command line tool:
    - java -cp ".:sqlite-jdbc-3.51.3.0.jar" Interface
 
 
-##Notes
+## Notes
 - There is a spelling mistake in the java file, be sure to run with "SponegbobDatabase" and not "SpongebobDatabase"
 - In order to access the database using java the program uses a JBDR jar file
